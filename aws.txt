@@ -1,0 +1,13 @@
+vintoh edit done
+
+AWS
+----
+elastic ip address setting
+elastic ip setteup
+
+------
+AMI setup
+create ami image
+multi manger muti worker
+----
+auto scalling

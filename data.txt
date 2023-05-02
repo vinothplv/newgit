@@ -1,0 +1,21 @@
+
+PROCESSING STARTED: 9.34.22 PM
+
+
+Procesing summary:
+
+1 file(s) analysed
+0 file(s) excluded
+1 file(s) modified
+0 file(s) failed
+
+0 folder(s) analysed
+0 folder(s) excluded
+0 folder(s) modified
+0 folder(s) failed
+
+Selected files and folders
+
+C:\Users\vinoth\Downloads\IMG_20230411_190.jpeg
+
+PROCESSING ENDED: 9.34.22 PM
